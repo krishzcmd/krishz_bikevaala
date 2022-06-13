@@ -1,0 +1,4 @@
+[2021-11-13 15:09:11] local.ERROR: Cannot redefine class constant App\Base\Constants\Setting\Settings::FIREBASE_DB_URL {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot redefine class constant App\\Base\\Constants\\Setting\\Settings::FIREBASE_DB_URL at /var/www/html/tyt-backend/app/Base/Constants/Setting/Settings.php:43)
+[stacktrace]
+#0 {main}
+"} 
